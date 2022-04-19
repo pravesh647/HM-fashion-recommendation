@@ -23,3 +23,6 @@ Example: Predict the next word from a given sequence of words
 Replace the sequence of words with sequence of products purchased by a customer over time
 Use LSTM models to predict the next purchase and make recommendation based on that
 
+
+References:
+[RNN Recommendation Engine](https://medium.com/decathlontechnology/building-a-rnn-recommendation-engine-with-tensorflow-505644aa9ff3)
